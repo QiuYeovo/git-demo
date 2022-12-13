@@ -3,5 +3,6 @@ public class testDemo {
         System.out.println("linqiu6666");
         System.out.println("linqiu1");
         System.out.println("linqiu2");
+        System.out.println("66666");
     }
 }
